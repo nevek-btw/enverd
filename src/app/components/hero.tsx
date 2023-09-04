@@ -1,9 +1,9 @@
 export default function Hero () {
   return (
     <header className='relative z-[3] max-w-[710px] w-full lg:max-w-[748px] flex flex-col mt-10 lg:mt-28 mx-auto items-center px-4'>
-      <h1 className='sm:text-7xl text-displaySmall text-center font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#E3E8FF] to-[#9396A8] relative'>
+      <h1 className='sm:text-7xl text-5xl text-center font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#E3E8FF] to-[#9396A8] relative'>
       Cultivando un mundo{' '}
-        <span className='from-green-500 to-green-300 bg-gradient-to-r bg-clip-text text-transparent block lg:inline-block'>
+        <span className='from-green-600 to-green-400 bg-gradient-to-r bg-clip-text text-transparent block lg:inline-block'>
           más verde
         </span>
       </h1>

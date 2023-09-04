@@ -25,11 +25,6 @@ export default function Reviews () {
             Bart Simpson, the master of mischief
           </p>
         </div>
-        <div className='flex items-center justify-center gap-3 mt-8'>
-          <div className='bg-white rounded-full w-6 h-2 transition-all duration-200 !bg-grey-300'></div>
-          <div className='bg-white rounded-full w-6 h-2 transition-all duration-200'></div>
-          <div className='bg-white rounded-full w-6 h-2 transition-all duration-200 !bg-grey-300'></div>
-        </div>
       </div>
     </div>
   )

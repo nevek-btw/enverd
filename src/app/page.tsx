@@ -2,6 +2,7 @@
 
 import Areas from './components/areas'
 import Card from './components/card'
+import Footer from './components/footer'
 import Hero from './components/hero'
 import Nav from './components/navbar'
 import Reviews from './components/reviews'
@@ -24,6 +25,7 @@ export default function Home () {
         <Areas />
       </Card>
       <Reviews />
+      <Footer />
     </div>
   )
 }
